@@ -4,9 +4,8 @@ public class Main
   {
     Mobile mobile;
     mobile = new Mobile();
-    // System.out.println(mobile.volume);
+    System.out.println(mobile.volume);
     // mobile.volume = 5;
     // System.out.println(mobile.volume);
-    
   }
 }
